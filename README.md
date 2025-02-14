@@ -15,6 +15,7 @@
   해당 스캔을 통해 대략적인 취약점은 확인되었지만, 유도된 취약점은 아직 발견되지 않았습니다. 따라서 Active Scan을 통해 추가 검수를 진행
   #### Active Scan (특정 타켓 심층 검사)
   ![20250214_153612](https://github.com/user-attachments/assets/51264f24-df93-4ede-bb08-d4d75baf3a77)
+  #### 보고서 출력 예시 (ZAP-Report-.html)
 
  
 
