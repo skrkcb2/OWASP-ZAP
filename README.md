@@ -11,7 +11,7 @@
   #### 탐지 결과 
   ![AutomateRes](https://github.com/user-attachments/assets/e21e60fd-12a7-408c-9dde-29d3fd019255)  
   해당 스캔을 통해 대략적인 취약점은 확인되었지만, 유도된 취약점은 아직 발견되지 않았습니다. 따라서 Active Scan을 통해 추가 검수를 진행
-  #### Active Scan 
+  #### Active Scan (특정 타켓 심층 검사)
   
   
 
