@@ -17,6 +17,11 @@
   ![20250214_153612](https://github.com/user-attachments/assets/51264f24-df93-4ede-bb08-d4d75baf3a77)
   #### 보고서 출력 예시 (ZAP-Report-.html) .html로 작성되어 나옵니다.
  - ### 검사 결과를 통한 동적 검사 와 정적 검사 비교
+   #### 같은 사이트를 두고 왼쪽은 ZAP을 통한 동적 검사(DAST) 결과, 오른쪽은 Fortify on Denamd의 정적 검사(SAST) 결과 입니다.
+   ![zap_vuln2](https://github.com/user-attachments/assets/80bc8d85-5d8b-498b-8dbd-a4bb18c991e3)![크기변환 크기변환 static_Res](https://github.com/user-attachments/assets/8ef7cb38-21d4-4096-951a-c554a1697761)
+
+
+
 
  
 
