@@ -16,6 +16,7 @@
   #### Active Scan (특정 타켓 심층 검사)
   ![20250214_153612](https://github.com/user-attachments/assets/51264f24-df93-4ede-bb08-d4d75baf3a77)
   #### 보고서 출력 예시 (ZAP-Report-.html) .html로 작성되어 나옵니다.
+ - ### 검사 결과를 통한 동적 검사 와 정적 검사 비교
 
  
 
