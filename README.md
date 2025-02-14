@@ -18,7 +18,10 @@
   #### 보고서 출력 예시 (ZAP-Report-.html) .html로 작성되어 나옵니다.
  - ### 검사 결과를 통한 동적 검사 와 정적 검사 비교
    #### 같은 사이트를 두고 ZAP을 통한 동적 검사(DAST) 결과, Fortify on Denamd의 정적 검사(SAST) 결과 입니다.
-   ![zap_vuln2](https://github.com/user-attachments/assets/80bc8d85-5d8b-498b-8dbd-a4bb18c991e3)![크기변환 크기변환 static_Res](https://github.com/user-attachments/assets/8ef7cb38-21d4-4096-951a-c554a1697761)
+   ![크기변환 checksdf](https://github.com/user-attachments/assets/39130b5b-1c88-4178-8e52-d0498b978ab2)![크기변환 크기변환 static_Res](https://github.com/user-attachments/assets/8ef7cb38-21d4-4096-951a-c554a1697761)
+   #### 위와 같이 Fortify와 같은 정적 분석 도구는 Unreleased Resource 취약점을 효과적으로 탐지할 수 있지만, 동적 분석(DAST)에서는 이를 발견하기 어려울 수 있습니다.
+   #### 반면, 정적 분석은 코드의 흐름만을 기반으로 하기 때문에, 함수(API) 호출 시 실제 동작을 정확히 예측하지 못해 File Traversal이나 Remote File Inclusion(RFI) 공격을 놓칠 가능성이 있습니다.
+   #### 따라서, 정적 분석(SAST)과 동적 분석(DAST)을 병행하여 보안 검사를 수행하는 것이 가장 효과적인 접근 방식임을 배웠습니다. 앞으로는 탐지 앱의 플러그인과 같은 추가 도구를 활용해 상호 검증을 강화하고, 보안 검사의 완성도를 더욱 높여가는 방식을 생각 하였습니다.
 
 
 
